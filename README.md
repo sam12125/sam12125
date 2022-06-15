@@ -1,4 +1,4 @@
-### Hi, I'm Saiyam Vaid 👋🏼
+### Hi, I'm Saiyam Vaid 👋
 
 <h3 align="center">I'm a passionate Full Stack Web developer who loves to do experiments, liked to clone websites and always hungry for learning new things👨🏼‍💻.</h3>
 
