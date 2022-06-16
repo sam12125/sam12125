@@ -10,7 +10,7 @@
 ### Get touch in with me🌏
 * LinkedIn - [visit](https://www.linkedin.com/in/saiyam-vaid/)
 * Github - [visit](https://github.com/sam12125)
-* Portfolio - [visit](https://saiyamvaid.netlify.app/)
+* Portfolio - [visit](https://saiyamportfolio.netlify.app/)
 
 
 
