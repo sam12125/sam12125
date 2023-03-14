@@ -11,6 +11,8 @@
 * LinkedIn - [visit](https://www.linkedin.com/in/saiyam-vaid/)
 * Github - [visit](https://github.com/sam12125)
 * Portfolio - [visit](https://saiyamportfolio.netlify.app/)
+* Contact number - +91 8439165641
+* Email - Saiyamvaid1997@gmail.com
 
 
 
